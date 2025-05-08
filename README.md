@@ -126,8 +126,6 @@ git clone https://github.com/waseralkarim/GitOps.git
 
 Navigate through the markdown files to explore each topic in detail.
 
----
-
 ## Feedbacks are most appreciated!
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
