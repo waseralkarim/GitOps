@@ -2,9 +2,7 @@
 
 This repository serves as a comprehensive guide to mastering Git and GitOps practices. It encompasses foundational concepts, advanced workflows, and best practices to facilitate effective collaboration and deployment strategies.
 
----
-
-## 📚 Table of Contents
+##  Table of Contents
 
 1. [GitHub Basics](01-github-basics.md)
 2. [Getting Started with Git](02-getting-started.md)
@@ -17,8 +15,6 @@ This repository serves as a comprehensive guide to mastering Git and GitOps prac
 9. [Git Subtrees](09-subtree.md)
 10. [Git Large File Storage (LFS)](10-git-lfs.md)
 
----
-
 ## 1. GitHub Basics
 
 An introduction to GitHub
@@ -29,8 +25,6 @@ An introduction to GitHub
 - Navigating the GitHub interface
 
 📄 [Read More](01-github-basics.md)
-
----
 
 ## 2. Getting Started with Git
 
@@ -43,8 +37,6 @@ Learn the essentials of Git
 
 📄 [Read More](02-getting-started.md)
 
----
-
 ## 3. Remote Repositories
 
 Understand how to work with remote repositories:
@@ -56,8 +48,6 @@ Understand how to work with remote repositories:
 
 📄 [Read More](03-remote-repository.md)
 
----
-
 ## 4. Branching in Git
 
 Master branching strategies:
@@ -68,8 +58,6 @@ Master branching strategies:
 
 📄 [Read More](04-branching-in-git.md)
 
----
-
 ## 5. Merge and Conflict Resolution
 
 - Merge branches
@@ -77,8 +65,6 @@ Master branching strategies:
 - Understand fast-forward and recursive merges
 
 📄 [Read More](05-merge-and-conflict.md)
-
----
 
 ## 6. Git Rebase & Pull Requests
 
@@ -91,8 +77,6 @@ Delve into advanced Git workflows:
 
 📄 [Read More](06-git-rebase-pull-request.md)
 
----
-
 ## 7. Git Hooks
 
 Automate tasks with Git hooks:
@@ -103,8 +87,6 @@ Automate tasks with Git hooks:
 
 📄 [Read More](07-git-hook.md)
 
----
-
 ## 8. Git Submodules
 
 - Adding submodules
@@ -112,8 +94,6 @@ Automate tasks with Git hooks:
 - Updating and syncing submodules
 
 📄 [Read More](08-submodule.md)
-
----
 
 ## 9. Git Subtrees
 
@@ -125,8 +105,6 @@ An alternative to submodules:
 
 📄 [Read More](09-subtree.md)
 
----
-
 ## 10. Git Large File Storage (LFS)
 
 Handle large files efficiently:
@@ -136,8 +114,6 @@ Handle large files efficiently:
 - Pushing and pulling with LFS
 
 📄 [Read More](10-git-lfs.md)
-
----
 
 ## Getting Started
 
@@ -152,6 +128,6 @@ Navigate through the markdown files to explore each topic in detail.
 
 ---
 
-## Feedbacks are most appreciated
+## Feedbacks are most appreciated!
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
