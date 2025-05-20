@@ -1,5 +1,7 @@
 # GitOps Repository
 
+![Blue and White Abstract Tech Facebook Cover](https://github.com/user-attachments/assets/f410688a-59e7-4dc3-98c9-942c5fb780ac)
+
 This repository serves as a comprehensive guide to mastering Git and GitOps practices. It encompasses foundational concepts, advanced workflows, and best practices to facilitate effective collaboration and deployment strategies.
 
 ##  Table of Contents
